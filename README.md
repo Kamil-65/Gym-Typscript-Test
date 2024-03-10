@@ -1,5 +1,5 @@
 ﻿# Gym-Typscript-Test
-Complete Typescript React Fitness Application Responsive web page.
+Complete Typescript React Fitness Responsive Application web page.
 created thanks to the ed-roh video lesson for practice purposes only.
 
 using Node.js, Typscript, Vite, and Tailwind as CSS Framework. 
